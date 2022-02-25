@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech of Mr. Oliver Plunket, titular Primate of Ireland who was executed at Tyburn on Friday the 1st of this instant July, 1681 written by his own hand.</title>
+            <author>Plunket, Oliver, Saint, 1629-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55186</idno>
+            <idno type="STC">Wing P2626</idno>
+            <idno type="STC">ESTC R8422</idno>
+            <idno type="EEBO-CITATION">13734369</idno>
+            <idno type="OCLC">ocm 13734369</idno>
+            <idno type="VID">101620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech of Mr. Oliver Plunket, titular Primate of Ireland who was executed at Tyburn on Friday the 1st of this instant July, 1681 written by his own hand.</title>
+                  <author>Plunket, Oliver, Saint, 1629-1681.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plunket, Oliver, --  Saint, 1629-1681.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:101620:1" rendition="simple:additions"/>
+            <head>The Laſt SPEECH OF Mr. Oliver Plunket, Titular PRIMATE of IRELAND, Who was Executed at <hi>Tyburn</hi> on <hi>Friday</hi> the <hi>1ſt.</hi> of this inſtant <hi>July,</hi> 1681.</head>
+            <byline>Written by his own Hand.</byline>
+            <p>I Have ſome few days paſt abided my Tryal at the <hi>Kings-Bench,</hi> and now very ſoon I muſt hold up my Hand at the King of King's Bench, and appear before a Judge who cannot be deceived by Falſe Witneſſes, or Corrupted Allegations; <hi>For he knoweth the ſecrets of Hearts:</hi> Neither can he deceive any, or give an Un<g ref="char:EOLhyphen"/>juſt Sentence, or be Miſlead by reſpects of perſons; <hi>He being all goodneſs, and a moſt juſt Judge, will infallibly decree an eternal Reward for all good works, and Condign puniſh<g ref="char:EOLhyphen"/>ment for the ſmalleſt Tranſgreſſion againſt his Commandments.</hi> Which being a moſt cer<g ref="char:EOLhyphen"/>tain and undoubted Truth; it would be a wicked Act, and contrary to my perpetual welfare, that I ſhould now by declaring any thing contrary to Truth, commit a deteſtable ſin, for which within a very ſhort time I muſt receive Sentence of Ever<g ref="char:EOLhyphen"/>laſting Damnation; after which there is no Reprieve or hope of Pardon. I will there<g ref="char:EOLhyphen"/>fore Confeſs the Truth, without any Equivocation, and make uſe of the words ac<g ref="char:EOLhyphen"/>cording to their accuſtomed ſignification; aſſuring you moreover, that I am of that cer<g ref="char:EOLhyphen"/>tain perſwaſion, that no Power, not only upon Earth, but alſo in Heaven, can diſ<g ref="char:EOLhyphen"/>pence with me, or give me leave to make a Falſe Proteſtation: And I proteſt upon the word of a Dying man, and as I hope for Salvation at the Hands of the Supream Judge, that I will declare the Naked Truth with all Candor and Sincerity: And that my Affairs may be the better known to all the World,</p>
+            <p>'Tis to be obſerved, that I have been Accuſed in <hi>Ireland</hi> of Treaſon and <hi>Praemunire,</hi> and that there I was Arraigned and brought to my Tryal; but the Proſecutors (men of Flagitious and Infamous Lives) perceiving that I had Records and Witneſſes who would Evidently convince them, and clearly ſhew my Innocency and their wick<g ref="char:EOLhyphen"/>edneſs, they voluntarily abſented themſelves, and came to this City, to procure that I ſhould be brought hither to my Tryal (where the Crimes objected were not committed,) where the Jury did not know me, or the Qualities of my Accuſers, and were not informed of ſeveral other Circumſtances conducing to a Fair Tryal. Here, after ſix Months Cloſe Impriſonment (or there abouts) I was brought to the Bar the third of <hi>May,</hi> and Arraigned for a Crime, for which I was before Arraigned in <hi>Ireland:</hi> A ſtrange Reſolution, a rare Fact, of which you will hardly find a Precedent theſe five hundred years paſt: But whereas my Witneſſes and Records
+<pb n="2" facs="tcp:101620:2"/>were in <hi>Ireland,</hi> the Lord Chief Juſtice gave me five weeks time to get them brought hither: But by reaſon of the uncertainty of the Seas, of Wind and Weather, and of the difficulty of getting Copies of Records, and bringing many Witneſſes from ſeveral Counties in <hi>Ireland,</hi> and for many other Impediments (of which <hi>Affidavit</hi> was made) I could not at the end of the five weeks get the Records and Witneſſes brought hi<g ref="char:EOLhyphen"/>ther; I therefore begged for twelve days more; that I might be in a readineſs for my Tryal, which the Lord Chief Juſtice denyed; and ſo I was brought to my Tryal, and expoſed, as it were, with my Hands Tyed, to thoſe Mercileſs Perjurors, who did aim at my Life, by Accuſing me of theſe following points.</p>
+            <p>Firſt, <hi>That I have ſent Letters by one</hi> Nial O Neale <hi>(who was my Page) to Monſieur</hi> Baldeſchi, <hi>the</hi> Pope<hi>'s Secretary; to the Biſhop of</hi> Aix, <hi>and to</hi> Principe Colonna, <hi>that they might Sollicit Forraign Powers to Invade</hi> Ireland; <hi>and alſo to have ſent Letters to Cardinal</hi> Bullion <hi>to the ſame effect.</hi>
+            </p>
+            <p>Secondly, <hi>To have imployed Captain</hi> Con O Neale <hi>to the</hi> French <hi>King for Succour.</hi>
+            </p>
+            <p>Thirdly, <hi>To have Levied and Exacted Moneys from the Clergy of</hi> Ireland <hi>to bring in the</hi> French, <hi>and to maintain ſeventy thouſand men.</hi>
+            </p>
+            <p>Fourthly, <hi>To have had in a readineſs ſeventy thouſand men, and Liſts made of them, and to have given Directions to one Frier</hi> Duffy <hi>to make a Liſt of</hi> 250 <hi>men in the Pariſh of</hi> Foghart <hi>in the County of</hi> Lowth.</p>
+            <p>Fifthly, <hi>To have Surrounded all the Forts and Harbours of</hi> Ireland, <hi>and to have fixed upon</hi> Carlingford <hi>as a fit Harbour for the</hi> Frenches <hi>Landing.</hi>
+            </p>
+            <p>Sixthly, <hi>To have had ſeveral Councils and Meetings, where there was Money alloted for Introducing the</hi> French.</p>
+            <p>
+               <hi>Finally, that a Meeting in the County of</hi> Monaghan, <hi>ſome</hi> 10 <hi>or</hi> 12 <hi>years paſt, where there were</hi> 300 <hi>Gentlemen of three ſeveral Counties, to wit,</hi> Monaghan, Cavan <hi>and</hi> Ar<g ref="char:EOLhyphen"/>magh; <hi>whom I did exhort to take Arms to recover their Eſtates.</hi>
+            </p>
+            <p>To the firſt I anſwer, that <hi>Nial O Neale</hi> was never my Servant or Page, and that I never ſent Letter or Letters by him to Monſieur <hi>Baldeſchi,</hi> or the Biſhop of <hi>Aix,</hi> or to <hi>Principe Colonna.</hi> And I ſay, that the <hi>Engliſh</hi> Tranſlation of that pretended Letter produced by the Frier <hi>Macmoyer</hi> is a meer invention of his, and never Penned by me, or its Original, either in <hi>Engliſh, Latin, Italian,</hi> or any other Language. I affirm moreover, that I never wrote Letter or Letters to Cardinal <hi>Bullion,</hi> or any of the <hi>French</hi> Kings Miniſters; neither did any who was in that Court either ſpeak to me, or write to me directly or indirectly, of any Plot or Conſpiracy againſt my King or Country. Farther, I Vow that I never ſent Agent or Agents to <hi>Rome,</hi> or to any other Court, about any Civil or Temporal Affairs: And 'tis well known, (for it is a Precept publickly Printed) that Clergy-men (living in Countries where the Govern<g ref="char:EOLhyphen"/>ment is not of <hi>Roman Catholicks</hi>) are commanded by <hi>Rome,</hi> not to write to <hi>Rome,</hi> concerning any Civil or Temporal Affairs. And I do aver, that I never received Letter or Letters from the <hi>Pope,</hi> or from any other of his Miniſters making the leaſt mention of any ſuch matters: So that the Friers <hi>Macmoyer</hi> and <hi>Duffy</hi> Swore moſt Falſly, as to ſuch Letter or Letters, Agent or Agents.</p>
+            <p>To the ſecond, I ſay that I never employed Capt. <hi>Con O Neal</hi> to the <hi>French King,</hi> or to any of his Miniſters; and that I never wrote to him, or received Letters from him; and that I never ſaw him but once, nor ever ſpoke to him to the beſt of my remembrance ten words; and as for his being in <hi>Charlemount,</hi> or <hi>Dungannon,</hi> I never ſaw him in them Towns, or knew of his being in thoſe places; So that as to <hi>Con O Neale, Fryer Mack Moyer</hi>'s Depoſitions are moſt falſe.</p>
+            <p>To the third, I ſay that I never Levyed any Money for a Plot or Conſpiracy, for bringing in <hi>Spaniards or French,</hi> neither did I ever receive any upon that account, from <hi>Priests or Fryers,</hi> as <hi>Priest Mac-Clave,</hi> and <hi>Fryer Duffy</hi> moſt untruly aſſerted. I aſſure you, that I never received from any <hi>Clergy-man</hi> in <hi>Ireland,</hi> but what was due to me by ancient cuſtom for my maintenance; and what my Predeceſſors theſe hundred years paſt were wont to receive; nay I received leſs than many of them. And if all what the <hi>Catholick-Clergy of Ireland</hi> get in the year, were put in one
+<pb n="3" facs="tcp:101620:2"/>Purſe, it would ſignify little or nothing to introduce the <hi>French,</hi> or to raiſe an Army of ſeventy thouſand Men, which I had Inſiſted, and ready, as <hi>Fryer Mac Moyer</hi> moſt falſly depoſed; Neither is it leſs untrue what <hi>Fryer Duffy</hi> atteſted, <hi>viz.</hi> That I di<g ref="char:EOLhyphen"/>rected him to make a Liſt of 250. Men in the Pariſh of <hi>Foghart,</hi> in the County of <hi>Lowth.</hi>
+            </p>
+            <p>To the fifth, I anſwer, that I never ſurrounded all the Forts or Harbours of <hi>Ireland,</hi> and that I was never at <hi>Cork, Kinſale, Bantry, Youghal, Dungarvan,</hi> or <hi>Knockfergus;</hi> and theſe 36 years paſt I was not at <hi>Limerick, Duncanon</hi> or <hi>Wexford.</hi> As for <hi>Car<g ref="char:EOLhyphen"/>lingford</hi> I was never in it but once, and ſtaid not in it above half an hour; Neither did I conſider the Fort or Haven; Neither had I it in my thoughts or imagination to fix upon it, or upon any other Fort or Haven, for Landing of <hi>French</hi> or <hi>Spani<g ref="char:EOLhyphen"/>ards;</hi> and whilſt I was at <hi>Carlingford</hi> (by meer chance, paſſing that way) <hi>Fryer Duffy</hi> was not in my Company, as he moſt falſly Swore.</p>
+            <p>To the ſixth, I ſay that I was never at any Meeting or Counſel, where there was mention made of allotting or collecting of Moneys, for a Plot or Conſpiracy; and 'tis well known, that the <hi>Catholick Clergy</hi> of <hi>Ireland,</hi> who have neither Lands nor Revenues, and hardly are able to keep decent Cloaths upon their Backs, and Life and Soul together, can raiſe no conſiderable ſum; nay cannot ſpare as much as would maintain half a Regiment.</p>
+            <p>To the ſeventh, I anſwer, that I was never at any meeting of 300. Gentlemen in the County of <hi>Monaghan,</hi> or of any Gentlemen of the three Counties of <hi>Monaghan, Ar<g ref="char:EOLhyphen"/>magh,</hi> and <hi>Cavan,</hi> nor of one County, nor of one Barony; and that I never exhorted Gentleman or Gentlemen either there, or in any other part of <hi>Ireland,</hi> to take Arms for the recovering their Eſtates; And 'tis well known that there are not even in all the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> 300 <hi>Iriſh Roman Catholicks,</hi> who had Eſtates, or loſt Eſtates by the late Rebellion; And as 'tis well known, all my thoughts and endeavours were for the quiet of my Country, and eſpecially of that Province.</p>
+            <p>Now to be brief, As I hope for Salvation I never ſent Letter or Letters, Agent, or Agents, to <hi>Pope, King, Prince,</hi> or <hi>Prelate,</hi> concerning any Plot or Conſpiracy againſt my King or Country; I never raiſed ſum or ſums of Money, great or ſmall to maintain Souldier or Souldiers all the days of my life; I never knew or heard, (neither did it come to my thoughts or imagination,) that the <hi>French</hi> were to Land at <hi>Carlingford;</hi> and I believe there is none who ſaw <hi>Ireland</hi> even in a Map, but will think it a meer Romance; I never knew of any Plotters or Conſpirators in <hi>Ireland,</hi> but ſuch as were Notorious and Proclaimed (commonly called <hi>Tories,</hi>) whom I did endeavour to ſuppreſs. And as I hope for Salvation, I always have been, and am intirely Innocent of the Treaſons laid to my Charge, and of any other whatſoever.</p>
+            <p>And tho' I be not guilty of the Crimes of which I am accuſed, yet I believe none came ever to this Place who is in ſuch a condition as I am; for if I ſhould even ac<g ref="char:EOLhyphen"/>knowledge, (which in Conſcience I cannot do, becauſe I ſhould bely my ſelf) the chief Crimes laid to my charge, no wiſe man that knows <hi>Ireland</hi> would believe me. If I ſhould confeſs that I was able to raiſe 70000 men in the diſtricts of which I had care, to wit; in <hi>
+                  <g ref="char:V">Ʋ</g>lster;</hi> nay, even in all <hi>Ireland,</hi> and to have levyed and exacted moneys from the <hi>Roman</hi> Clergy for their maintenance, and to have prepared <hi>Car<g ref="char:EOLhyphen"/>lingford</hi> for the <hi>French</hi>'s Landing, all would but laugh at me; it being well known, that all the Revenues of <hi>Ireland,</hi> both Spiritual and Temporal, poſſeſſed by His Ma<g ref="char:EOLhyphen"/>jeſty's Subjects, are ſcarce able to raiſe and maintain an Army of 70000 men. If I will deny all thoſe Crimes, (as I did, and do) yet it may be that ſome, who are not acquainted with the Affairs of <hi>Ireland,</hi> will not believe that my denial is groun<g ref="char:EOLhyphen"/>ded upon Truth, tho' I aſſert it with my laſt breath. I dare venture farther, and af<g ref="char:EOLhyphen"/>firm; That if theſe points of 70000 men, <hi>&amp;c.</hi> had been Sworn before any Proteſtant Jury in <hi>Ireland,</hi> and had been even acknowledged by me at the Bar, they would not believe me, no more than if it had been depoſed, and confeſſed by me, That I had <hi>flown in the Air</hi> from <hi>Dublin</hi> to <hi>Holy-head.</hi>
+            </p>
+            <pb n="4" facs="tcp:101620:3"/>
+            <p>You ſee therefore what a Condition I am in, and you have heard what Proteſtati<g ref="char:EOLhyphen"/>ons I have made of Innocency, and I hope you will believe the words of a dying man; And that you may be the more induced to give me credit, I aſſure you, That a great Peer ſent me notice, <hi>That he would ſave my Life, if I would accuſe others.</hi> but I anſwered, <hi>That I never knew of any Conſpirators in</hi> Ireland, <hi>but ſuch</hi> (as I ſaid before) <hi>as were publickly known Outlaws; And that, to ſave my Life, I would not falſly accuſe any, nor prejudice my own Soul.</hi> Quid prodeſt homini, <hi>&amp;c. To take away any man's Life or Goods wrongfully, ill becometh any Chriſtian, eſpecially a man of my Calling, being a Clergy-man of the Catholick Church, and alſo an unworthy Prelate, which I do openly confeſs.</hi> Neither will I deny to have exerciſed in <hi>Ireland</hi> the Functions of a Catholick Prelate, as long as there was any Connivance or Toleration; and by Preaching, and Teaching, and Statutes, to have endeavoured to bring the Clergy (of which I had a care) to a due comportment, according to their Calling; and tho' thereby I did but my duty, yet ſome who would not amend had a prejudice for me, and eſpecially my Accuſers, to whom I did endeavour to do good; I mean the Clergy-men, (as for the four Lay-men who appeared againſt me, <hi>viz. Florence Mac-Moyer,</hi> the 2 <hi>Neals,</hi> and <hi>Hanlon,</hi> I was never acquainted with them;) but you ſee how I am re<g ref="char:EOLhyphen"/>quited, and how by falſe Oaths they brought me to this untimely death; which wicked act being a defect of Perſons, ought not to reflect upon the Order of S. <hi>Francis,</hi> or upon the <hi>Roman</hi> Catholick Clergy. It being well known, that there was a <hi>Judas</hi> among the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2 Apoſtles, and a wicked man called <hi>Nicholas</hi> amongſt the ſeven Diacons; And even, as one of the ſaid Diacons, to wit, holy <hi>Stephen,</hi> did pray for thoſe who ſtoned him to death; ſo do I, for thoſe who with <hi>Perjuries</hi> ſpill my Innocent Blond, ſaying, as St. <hi>Stephen</hi> did, <hi>O Lord lay not this Sin to them.</hi> I do heartily forgive them, and alſo the Judges, who (by denying me ſufficient time to bring my Records and Witneſſes from <hi>Ireland</hi>) did expoſe my Life to evident danger. I do alſo for<g ref="char:EOLhyphen"/>give all thoſe who had a hand in bringing me from <hi>Ireland</hi> to be tryed here, where it was morally impoſſible for me to have a fair Tryal. I do finally forgive all who did concur, directly or indirectly, to take away my Life, and I ask forgiveneſs of all thoſe whom I ever offended by Thought, Word or Deed.</p>
+            <p>I beſeech the All-powerful, That his Divine Majeſty grant our King, Queen and the Duke of <hi>York,</hi> and all the Royal Family, Health, long Life, and all Proſperity in this world, and in the next Everlaſting felicity</p>
+            <p>Now that I have ſhewed ſufficiently (as I think) how Innocent I am of any Plot or Conſpiracy; I would I were able, with the like Truth, to clear my ſelf of high Crimes committed againſt the Divine Majeſties Commandments (often tranſgreſſed by me) for which I am ſorry with all my heart; and if I ſhould, or could live a thouſand years, I have a firm reſolution, and a ſtrong purpoſe, by your Grace (O my God) never to offend you; and I beſeech your Divine Majeſty, by the merits of Chriſt, and by the Interceſſion of his Bleſſed Mother, and all the holy Angels and Saints, to forgive me my Sins, and to grant my Soul Eternal Reſt. <hi>Miſerere mei Deus,</hi> &amp;c. <hi>Parce animae,</hi> &amp;c. <hi>In manus Tuas,</hi> &amp;c.</p>
+            <closer>
+               <signed>OLIVER PLUNKET.</signed>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>
+                  <hi>TO the final ſatisfaction of all Perſons, that have the Charity to believe the Words of a Dying Man; I again declare before God, as I hope for Sal<g ref="char:EOLhyphen"/>vation, what is contained in this Paper, is the plain and naked truth, without any Equivocation, Mental Reſervation, or ſecret Evaſion whatſoever; taking the Words in their uſual ſenſe and meaning, as</hi> Proteſtants <hi>do, when they diſcourſe with all Candour and ſincerity. To all which I have here ſubſcribed my Hand,</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>N. Thompſon,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
